@@ -9,6 +9,6 @@
     <classes>
       <class name="api.test.UserTest"/>
      <!-- <class name="api.test.DDTest"/>-->
-    </classes>
+    </classes>	
   </test> <!-- PetTest -->
 </suite> <!-- PetSuite -->
