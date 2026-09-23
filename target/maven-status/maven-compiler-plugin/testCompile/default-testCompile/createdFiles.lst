@@ -1,8 +1,9 @@
 api\test\DDTest.class
-api\endpoints\UserEndpoints.class
-api\test\UserTest.class
 api\utilities\ExtentReportManager.class
 api\utilities\DataProviders.class
 api\payload\User.class
-api\utilities\XLUtility.class
 api\endpoints\Routes.class
+api\endpoints\UserEndpoints.class
+api\test\UserTest.class
+api\test\NewTest.class
+api\utilities\XLUtility.class
